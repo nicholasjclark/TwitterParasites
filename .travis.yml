@@ -3,7 +3,6 @@ sudo: false
 cache: packages
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_d518c2cf7dea_key -iv $encrypted_d518c2cf7dea_iv -in rtweet.rds.enc -out rtweet.rds -d
   - git config --global user.email "nicholas.j.clark1214@gmail.com"
 
 script:
