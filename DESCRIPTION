@@ -1,0 +1,5 @@
+Package: TwitterParasites
+Title: Twitter parasite searches
+Version: 0.0.1
+Imports: rtweet,
+    tidyverse
