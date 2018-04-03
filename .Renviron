@@ -1,5 +1,4 @@
 TWITTER_APP=TwitterParasites
 TWITTER_CONSUMER_KEY=9ARzkWhfpce6W9VnO333fW3iL
 TWITTER_CONSUMER_SECRET=SiOPm6KrlKFXCPgFNwHzPdtO0CB5zKA19FVwuLtz3TkeUwHBfN
-TWITTER_PAT=/Users/nicholasclark/.rtweet_token.rds
 TWITTER_PAT=~/.rtweet.rds
