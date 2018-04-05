@@ -1,35 +1,67 @@
 #### Search Twitter for mentions of specific ectoparasites ####
-library(rtweet)
-library(tidyverse)
+source('./functions/twitter.functions.R')
 
-## Read in previous version of tweet data file
-tick.search.prev <- read.csv('./searches/tick.search.csv',
-                             stringsAsFactors = F)
-tick.search.prev$created_at <- as.POSIXct(tick.search.prev$created_at)
+## Carry out tick searches and save the file
+rtweet.save(file.path = './searches/tick.search.csv',
+            terms = c("paralysis tick",
+                      "tick paralysis",
+                      "ixodes",
+                      "dog tick",
+                      "dog paralysis tick",
+                      "#tickseason",
+                      "removing ticks",
+                      "tick infestation",
+                      "tick prevention"),
+            overwrite = TRUE)
 
-## Update the search and overwrite the previous file
-tick.search.new <- search_tweets2(
-  c("paralysis tick OR ixodes OR tick paralysis", 
-    "tick fever OR Babesia"),
-  n = 500, include_rts = F
-) %>% select(created_at:source,place_name:country_code) %>%
-  left_join(tick.search.prev)
+## Repeat for flea searches
+rtweet.save(file.path = './searches/flea.search.csv',
+            terms = c("cat flea", 
+                      "dog flea", 
+                      "ctenocephalides", 
+                      "removing fleas", 
+                      "flea infestation", 
+                      "flea prevention"),
+            overwrite = TRUE)
 
-write.csv(tick.search.new, file = './searches/tick.search.csv',
-          row.names = F)
+#### Repeat searches using Google trends data ####
+source('./functions/gtrends.functions.R')
+gtrends.save(file.path = './searches/tick.gtrends.search.csv', 
+             region = 'global', 
+             terms = list(c("paralysis tick", 
+                            "tick paralysis",
+                            "ixodes", 
+                            "dog tick",
+                            "dog paralysis tick"),
+                          c("removing ticks",
+                            "tick infestation", 
+                            "tick prevention")),
+             overwrite = TRUE)
 
-#### Repeat for flea searches ####
-flea.search.prev <- read.csv('./searches/flea.search.csv',
-                             stringsAsFactors = F)
-flea.search.prev$created_at <- as.POSIXct(flea.search.prev$created_at)
+# Perform Australian (QLD and NSW) regional searches
+gtrends.save(file.path = './searches/tick.gtrends.au.search.csv', 
+             region = "Australia",
+             terms = list(c("paralysis tick", 
+                            "tick paralysis",
+                            "ixodes", 
+                            "dog tick",
+                            "dog paralysis tick"),
+                          c("removing ticks",
+                            "tick infestation", 
+                            "tick prevention")),
+             overwrite = TRUE)
 
-flea.search.new <- search_tweets2(
-  c("cat flea OR dog flea OR ctenocephalides", 
-    "rickettsia OR cat scratch fever"),
-  n = 500, include_rts = F
-) %>% select(created_at:source,place_name:country_code) %>%
-  left_join(flea.search.prev)
+#### Repeat for flea gtrends searches ####
+gtrends.save(file.path = './searches/flea.gtrends.search.csv', 
+             region = "global",
+             terms = list(c("cat flea", "dog flea", "ctenocephalides", 
+                            "removing fleas", "flea infestation"), 
+                          c("flea prevention")),
+             overwrite = TRUE)
 
-write.csv(flea.search.new, file = './searches/flea.search.csv',
-          row.names = F)
-
+gtrends.save(file.path = './searches/flea.gtrends.au.search.csv', 
+             region = "Australia",
+             terms = list(c("cat flea", "dog flea", "ctenocephalides", 
+                            "removing fleas", "flea infestation"), 
+                          c("flea prevention")),
+             overwrite = TRUE)
