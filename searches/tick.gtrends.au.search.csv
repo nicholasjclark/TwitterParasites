@@ -1,4 +1,244 @@
 "location","keyword","geo","gprop","total.hits","end.date","start.date"
+"Sunshine Coast","paralysis tick","AU-QLD","web",100,2018-04-13,2018-04-06
+"Gold Coast","paralysis tick","AU-QLD","web",55,2018-04-13,2018-04-06
+"Brisbane","paralysis tick","AU-QLD","web",49,2018-04-13,2018-04-06
+"Kandanga","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Birkalla","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kairi","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Jaggan","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mossman Gorge","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Chewko","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"North Isis","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Howitt","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Innot Hot Springs","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Alligator Creek","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mannuem","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Saint George","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Damper Creek","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kilcoy","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Malanda","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Moore Park Beach","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Regency Downs","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Horn","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Yeppoon","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Dalby","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Maryborough","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mackay","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gladstone","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Hervey Bay","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Toowoomba","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kensington Grove","paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","tick paralysis","AU-QLD","web",100,2018-04-13,2018-04-06
+"Kandanga","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Birkalla","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kairi","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Jaggan","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mossman Gorge","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Chewko","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"North Isis","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Howitt","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Innot Hot Springs","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Alligator Creek","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mannuem","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Saint George","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Damper Creek","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kilcoy","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Malanda","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Moore Park Beach","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Regency Downs","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Horn","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Yeppoon","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Dalby","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Maryborough","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mackay","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gladstone","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Hervey Bay","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Toowoomba","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kensington Grove","tick paralysis","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","ixodes","AU-QLD","web",100,2018-04-13,2018-04-06
+"Yeppoon","ixodes","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","ixodes","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","ixodes","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","ixodes","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","ixodes","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","dog tick","AU-QLD","web",100,2018-04-13,2018-04-06
+"Yarranlea","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Balnagowan","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mannuem","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Plainland","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Murphys Creek","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Tolga","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Durham","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Saint George","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Horn","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Zilzie","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Calliope","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Stanthorpe","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Highfields","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Roma","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Dalby","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Rockhampton","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Toowoomba","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Hervey Bay","dog tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mannuem","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Dalby","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","dog paralysis tick","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","removing ticks","AU-QLD","web",100,2018-04-13,2018-04-06
+"Calliope","removing ticks","AU-QLD","web",0,2018-04-13,2018-04-06
+"Roma","removing ticks","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","removing ticks","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","tick infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","tick infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sandy Ridges","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Glenorchy","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Warwick","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","tick prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sydney","paralysis tick","AU-NSW","web",100,2018-04-13,2018-04-06
+"Kyeamba","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Exeter","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Berrima","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Broke","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sun Valley","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cudgen","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Arrawarra","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Nabiac","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Kosciuszko National Park","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Ulladulla","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cobar","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Fernvale","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Batemans Bay","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Corowa","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Broken Hill","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bowral","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Singleton","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wagga Wagga","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lismore","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bathurst","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Port Macquarie","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bridgman","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Kingscliff","paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","tick paralysis","AU-NSW","web",100,2018-04-13,2018-04-06
+"Kyeamba","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Exeter","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Berrima","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Broke","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sun Valley","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cudgen","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Arrawarra","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Nabiac","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Kosciuszko National Park","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Ulladulla","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cobar","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Fernvale","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Batemans Bay","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Corowa","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Broken Hill","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bowral","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Singleton","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wagga Wagga","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lismore","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bathurst","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Port Macquarie","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bridgman","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Kingscliff","tick paralysis","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","ixodes","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","dog tick","AU-NSW","web",100,2018-04-13,2018-04-06
+"Middle Flat","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Stotts Creek","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Greigs Flat","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Camberwell","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Valla Beach","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wingello","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Crabbes Creek","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Townsend","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Barrengarry","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bangalee","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Berrima","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"South Pambula","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Narromine","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sunshine Bay","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sussex Inlet","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Table Top","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Jolly Nose","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wallaroo","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Broken Hill","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sanctuary Point","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Leeton","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Batemans Bay","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Banora Point","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Singleton","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Grafton","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wagga Wagga","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Coffs Harbour","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bathurst","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Port Macquarie","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Albury","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Back Forest","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"South West Rocks","dog tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Berrima","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"South West Rocks","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Batemans Bay","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Broken Hill","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Port Macquarie","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","dog paralysis tick","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","removing ticks","AU-NSW","web",100,2018-04-13,2018-04-06
+"South Durras","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newrybar","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Crabbes Creek","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lennox Head","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Gunnedah","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Springwood","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","removing ticks","AU-NSW","web",0,2018-04-13,2018-04-06
+"Woronora Dam","tick infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bourke","tick infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","tick infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Blueys Beach","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Barrengarry","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Greigs Flat","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Hay","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Duri","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bundanoon","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wingham","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Blaxland","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Forster","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Coffs Harbour","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","tick prevention","AU-NSW","web",0,2018-04-13,2018-04-06
 "Brisbane","paralysis tick","AU-QLD","web",159,2018-04-05,2018-03-29
 "College View","paralysis tick","AU-QLD","web",0,2018-04-05,2018-03-29
 "Churchable","paralysis tick","AU-QLD","web",0,2018-04-05,2018-03-29

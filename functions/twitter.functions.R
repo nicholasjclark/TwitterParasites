@@ -10,7 +10,7 @@ rtweet.save = function(file.path, terms, overwrite){
   
   ## Perform the search
   search.new <- rtweet::search_tweets2(
-    terms, n = 500, include_rts = F) %>% 
+    terms, n = 500, include_rts = T) %>% 
     dplyr::select(user_id:source, place_name:country_code) %>%
     dplyr::distinct()
   

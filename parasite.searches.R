@@ -1,4 +1,5 @@
 #### Search Twitter for mentions of specific ectoparasites ####
+setwd("~/Google Drive/Academic Work Folder/TwitterParasites")
 source('./functions/twitter.functions.R')
 
 ## Carry out tick searches and save the file

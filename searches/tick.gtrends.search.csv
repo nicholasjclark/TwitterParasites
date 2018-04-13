@@ -1,4 +1,2004 @@
 "location","hits","keyword","geo","gprop","end.date","start.date"
+"Australia","100","paralysis tick","world","web",2018-04-13,2018-04-06
+"Philippines","11","paralysis tick","world","web",2018-04-13,2018-04-06
+"United States","6","paralysis tick","world","web",2018-04-13,2018-04-06
+"Canada","5","paralysis tick","world","web",2018-04-13,2018-04-06
+"India","3","paralysis tick","world","web",2018-04-13,2018-04-06
+"United Kingdom","2","paralysis tick","world","web",2018-04-13,2018-04-06
+"Singapore","1","paralysis tick","world","web",2018-04-13,2018-04-06
+"Indonesia","1","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mexico","1","paralysis tick","world","web",2018-04-13,2018-04-06
+"Italy","<1","paralysis tick","world","web",2018-04-13,2018-04-06
+"Gambia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Botswana","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Fiji","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Namibia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"South Africa","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Zambia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Libya","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Sudan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Moldova","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Tanzania","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Oman","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Nepal","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Pakistan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Syria","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Egypt","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Kenya","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Nigeria","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Jordan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Ireland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Israel","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Costa Rica","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Malaysia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"United Arab Emirates","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Croatia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Iraq","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Saudi Arabia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Belarus","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bangladesh","","paralysis tick","world","web",2018-04-13,2018-04-06
+"New Zealand","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Iran","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Chile","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Colombia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Poland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Thailand","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Netherlands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Turkey","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Sweden","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Germany","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Brazil","","paralysis tick","world","web",2018-04-13,2018-04-06
+"France","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Spain","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Aruba","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Afghanistan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Angola","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Anguilla","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Åland Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Albania","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Andorra","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Argentina","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Armenia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"American Samoa","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Antarctica","","paralysis tick","world","web",2018-04-13,2018-04-06
+"French Southern Territories","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Austria","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Azerbaijan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Burundi","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Belgium","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Benin","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Burkina Faso","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bulgaria","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bahrain","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bahamas","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Barthélemy","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Belize","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bermuda","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bolivia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Barbados","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Brunei","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bhutan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Bouvet Island","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Central African Republic","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Switzerland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"China","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cameroon","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cook Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Comoros","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cape Verde","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cuba","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Curaçao","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Christmas Island","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cayman Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cyprus","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Czechia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Djibouti","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Dominica","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Denmark","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Dominican Republic","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Algeria","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Ecuador","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Eritrea","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Western Sahara","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Estonia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Ethiopia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Finland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Faroe Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Micronesia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Gabon","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Georgia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guernsey","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Ghana","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Gibraltar","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guinea","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guadeloupe","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Greece","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Grenada","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Greenland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guatemala","","paralysis tick","world","web",2018-04-13,2018-04-06
+"French Guiana","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guam","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Guyana","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Hong Kong","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Honduras","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Haiti","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Hungary","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Isle of Man","","paralysis tick","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Iceland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Jamaica","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Jersey","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Japan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Kazakhstan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Cambodia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Kiribati","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis","","paralysis tick","world","web",2018-04-13,2018-04-06
+"South Korea","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Kuwait","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Laos","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Lebanon","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Liberia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Lucia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Liechtenstein","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Sri Lanka","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Lesotho","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Lithuania","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Luxembourg","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Latvia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Macau","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Martin","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Morocco","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Monaco","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Madagascar","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Maldives","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Marshall Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mali","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Malta","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Montenegro","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mongolia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mozambique","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mauritania","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Montserrat","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Martinique","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mauritius","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Malawi","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Mayotte","","paralysis tick","world","web",2018-04-13,2018-04-06
+"New Caledonia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Niger","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Norfolk Island","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Nicaragua","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Niue","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Norway","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Nauru","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Panama","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Peru","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Palau","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Papua New Guinea","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Puerto Rico","","paralysis tick","world","web",2018-04-13,2018-04-06
+"North Korea","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Portugal","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Paraguay","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Palestine","","paralysis tick","world","web",2018-04-13,2018-04-06
+"French Polynesia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Qatar","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Réunion","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Romania","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Russia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Rwanda","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Senegal","","paralysis tick","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Helena","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Solomon Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Sierra Leone","","paralysis tick","world","web",2018-04-13,2018-04-06
+"El Salvador","","paralysis tick","world","web",2018-04-13,2018-04-06
+"San Marino","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Somalia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Serbia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"South Sudan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Suriname","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Slovakia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Slovenia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Swaziland","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Sint Maarten","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Seychelles","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Chad","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Togo","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Tajikistan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Tokelau","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Turkmenistan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Timor-Leste","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Tonga","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Tunisia","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Tuvalu","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Taiwan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Uganda","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Ukraine","","paralysis tick","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Uruguay","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Uzbekistan","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Vatican City","","paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Venezuela","","paralysis tick","world","web",2018-04-13,2018-04-06
+"British Virgin Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Vietnam","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Vanuatu","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Samoa","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Kosovo","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Yemen","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Zimbabwe","","paralysis tick","world","web",2018-04-13,2018-04-06
+"Australia","100","tick paralysis","world","web",2018-04-13,2018-04-06
+"Philippines","11","tick paralysis","world","web",2018-04-13,2018-04-06
+"Pakistan","7","tick paralysis","world","web",2018-04-13,2018-04-06
+"United States","6","tick paralysis","world","web",2018-04-13,2018-04-06
+"Canada","5","tick paralysis","world","web",2018-04-13,2018-04-06
+"Malaysia","4","tick paralysis","world","web",2018-04-13,2018-04-06
+"United Arab Emirates","3","tick paralysis","world","web",2018-04-13,2018-04-06
+"India","3","tick paralysis","world","web",2018-04-13,2018-04-06
+"Saudi Arabia","2","tick paralysis","world","web",2018-04-13,2018-04-06
+"United Kingdom","2","tick paralysis","world","web",2018-04-13,2018-04-06
+"New Zealand","2","tick paralysis","world","web",2018-04-13,2018-04-06
+"Singapore","1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Thailand","1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Indonesia","1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mexico","1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Sweden","1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Germany","1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Brazil","<1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Italy","<1","tick paralysis","world","web",2018-04-13,2018-04-06
+"Gambia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Botswana","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Fiji","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Namibia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"South Africa","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Zambia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Libya","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Sudan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Moldova","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Tanzania","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Oman","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Nepal","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Syria","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Egypt","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Kenya","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Nigeria","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Jordan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Ireland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Israel","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Costa Rica","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Croatia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Iraq","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Belarus","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bangladesh","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Iran","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Chile","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Colombia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Poland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Netherlands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Turkey","","tick paralysis","world","web",2018-04-13,2018-04-06
+"France","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Spain","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Aruba","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Afghanistan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Angola","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Anguilla","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Åland Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Albania","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Andorra","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Argentina","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Armenia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"American Samoa","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Antarctica","","tick paralysis","world","web",2018-04-13,2018-04-06
+"French Southern Territories","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Austria","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Azerbaijan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Burundi","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Belgium","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Benin","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Burkina Faso","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bulgaria","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bahrain","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bahamas","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Barthélemy","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Belize","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bermuda","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bolivia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Barbados","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Brunei","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bhutan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Bouvet Island","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Central African Republic","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Switzerland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"China","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cameroon","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cook Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Comoros","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cape Verde","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cuba","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Curaçao","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Christmas Island","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cayman Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cyprus","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Czechia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Djibouti","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Dominica","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Denmark","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Dominican Republic","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Algeria","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Ecuador","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Eritrea","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Western Sahara","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Estonia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Ethiopia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Finland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Faroe Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Micronesia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Gabon","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Georgia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guernsey","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Ghana","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Gibraltar","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guinea","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guadeloupe","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Greece","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Grenada","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Greenland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guatemala","","tick paralysis","world","web",2018-04-13,2018-04-06
+"French Guiana","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guam","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Guyana","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Hong Kong","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Honduras","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Haiti","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Hungary","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Isle of Man","","tick paralysis","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Iceland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Jamaica","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Jersey","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Japan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Kazakhstan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Cambodia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Kiribati","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis","","tick paralysis","world","web",2018-04-13,2018-04-06
+"South Korea","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Kuwait","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Laos","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Lebanon","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Liberia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Lucia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Liechtenstein","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Sri Lanka","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Lesotho","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Lithuania","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Luxembourg","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Latvia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Macau","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Martin","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Morocco","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Monaco","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Madagascar","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Maldives","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Marshall Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mali","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Malta","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Montenegro","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mongolia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mozambique","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mauritania","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Montserrat","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Martinique","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mauritius","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Malawi","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Mayotte","","tick paralysis","world","web",2018-04-13,2018-04-06
+"New Caledonia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Niger","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Norfolk Island","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Nicaragua","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Niue","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Norway","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Nauru","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Panama","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Peru","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Palau","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Papua New Guinea","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Puerto Rico","","tick paralysis","world","web",2018-04-13,2018-04-06
+"North Korea","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Portugal","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Paraguay","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Palestine","","tick paralysis","world","web",2018-04-13,2018-04-06
+"French Polynesia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Qatar","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Réunion","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Romania","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Russia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Rwanda","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Senegal","","tick paralysis","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Helena","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Solomon Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Sierra Leone","","tick paralysis","world","web",2018-04-13,2018-04-06
+"El Salvador","","tick paralysis","world","web",2018-04-13,2018-04-06
+"San Marino","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Somalia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Serbia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"South Sudan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Suriname","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Slovakia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Slovenia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Swaziland","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Sint Maarten","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Seychelles","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Chad","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Togo","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Tajikistan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Tokelau","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Turkmenistan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Timor-Leste","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Tonga","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Tunisia","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Tuvalu","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Taiwan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Uganda","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Ukraine","","tick paralysis","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Uruguay","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Uzbekistan","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Vatican City","","tick paralysis","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Venezuela","","tick paralysis","world","web",2018-04-13,2018-04-06
+"British Virgin Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Vietnam","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Vanuatu","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Samoa","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Kosovo","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Yemen","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Zimbabwe","","tick paralysis","world","web",2018-04-13,2018-04-06
+"Slovakia","100","ixodes","world","web",2018-04-13,2018-04-06
+"Lithuania","71","ixodes","world","web",2018-04-13,2018-04-06
+"Czechia","52","ixodes","world","web",2018-04-13,2018-04-06
+"Serbia","48","ixodes","world","web",2018-04-13,2018-04-06
+"Romania","45","ixodes","world","web",2018-04-13,2018-04-06
+"Hungary","40","ixodes","world","web",2018-04-13,2018-04-06
+"Switzerland","33","ixodes","world","web",2018-04-13,2018-04-06
+"Poland","33","ixodes","world","web",2018-04-13,2018-04-06
+"Bulgaria","30","ixodes","world","web",2018-04-13,2018-04-06
+"Belgium","30","ixodes","world","web",2018-04-13,2018-04-06
+"Ukraine","28","ixodes","world","web",2018-04-13,2018-04-06
+"Italy","26","ixodes","world","web",2018-04-13,2018-04-06
+"Finland","25","ixodes","world","web",2018-04-13,2018-04-06
+"Colombia","23","ixodes","world","web",2018-04-13,2018-04-06
+"Canada","21","ixodes","world","web",2018-04-13,2018-04-06
+"United States","17","ixodes","world","web",2018-04-13,2018-04-06
+"Austria","15","ixodes","world","web",2018-04-13,2018-04-06
+"France","15","ixodes","world","web",2018-04-13,2018-04-06
+"Spain","15","ixodes","world","web",2018-04-13,2018-04-06
+"Germany","14","ixodes","world","web",2018-04-13,2018-04-06
+"Mexico","13","ixodes","world","web",2018-04-13,2018-04-06
+"Australia","11","ixodes","world","web",2018-04-13,2018-04-06
+"United Kingdom","10","ixodes","world","web",2018-04-13,2018-04-06
+"Netherlands","10","ixodes","world","web",2018-04-13,2018-04-06
+"Russia","9","ixodes","world","web",2018-04-13,2018-04-06
+"Hong Kong","8","ixodes","world","web",2018-04-13,2018-04-06
+"Philippines","7","ixodes","world","web",2018-04-13,2018-04-06
+"Sweden","7","ixodes","world","web",2018-04-13,2018-04-06
+"Denmark","6","ixodes","world","web",2018-04-13,2018-04-06
+"Brazil","4","ixodes","world","web",2018-04-13,2018-04-06
+"India","3","ixodes","world","web",2018-04-13,2018-04-06
+"Turkey","1","ixodes","world","web",2018-04-13,2018-04-06
+"Indonesia","1","ixodes","world","web",2018-04-13,2018-04-06
+"Japan","1","ixodes","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Namibia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Estonia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Ethiopia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Jamaica",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Zambia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Mongolia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Slovenia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"St. Helena",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Panama",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Latvia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Puerto Rico",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Ghana",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Portugal",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Costa Rica",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Algeria",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"New Zealand",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Croatia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Greece",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Norway",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Israel",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Pakistan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Ireland",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Singapore",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Egypt",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Iraq",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Kenya",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Saudi Arabia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Nigeria",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Malaysia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Peru",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"South Korea",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Argentina",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Iran",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Chile",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Kazakhstan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Thailand",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Venezuela",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Taiwan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Aruba",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Afghanistan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Angola",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Anguilla",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Åland Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Albania",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Andorra",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"United Arab Emirates",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Armenia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"American Samoa",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Antarctica",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"French Southern Territories",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Azerbaijan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Burundi",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Benin",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Burkina Faso",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bangladesh",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bahrain",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bahamas",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"St. Barthélemy",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Belarus",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Belize",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bermuda",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bolivia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Barbados",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Brunei",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bhutan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Bouvet Island",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Botswana",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Central African Republic",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"China",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cameroon",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cook Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Comoros",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cape Verde",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cuba",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Curaçao",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Christmas Island",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cayman Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cyprus",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Djibouti",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Dominica",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Dominican Republic",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Ecuador",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Eritrea",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Western Sahara",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Fiji",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Faroe Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Micronesia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Gabon",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Georgia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guernsey",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Gibraltar",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guinea",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guadeloupe",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Gambia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Grenada",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Greenland",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guatemala",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"French Guiana",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guam",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Guyana",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Honduras",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Haiti",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Isle of Man",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Iceland",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Jersey",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Jordan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Cambodia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Kiribati",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Kuwait",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Laos",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Lebanon",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Liberia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Libya",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"St. Lucia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Liechtenstein",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Sri Lanka",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Lesotho",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Luxembourg",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Macau",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"St. Martin",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Morocco",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Monaco",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Moldova",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Madagascar",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Maldives",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Marshall Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Mali",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Malta",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Montenegro",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Mozambique",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Mauritania",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Montserrat",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Martinique",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Mauritius",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Malawi",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Mayotte",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"New Caledonia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Niger",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Norfolk Island",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Nicaragua",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Niue",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Nepal",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Nauru",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Oman",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Palau",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Papua New Guinea",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"North Korea",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Paraguay",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Palestine",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"French Polynesia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Qatar",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Réunion",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Rwanda",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Sudan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Senegal",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Solomon Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Sierra Leone",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"El Salvador",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"San Marino",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Somalia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"South Sudan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Suriname",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Swaziland",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Sint Maarten",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Seychelles",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Syria",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Chad",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Togo",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Tajikistan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Tokelau",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Turkmenistan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Timor-Leste",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Tonga",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Tunisia",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Tuvalu",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Tanzania",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Uganda",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Uruguay",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Uzbekistan",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Vatican City",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"British Virgin Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Vietnam",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Vanuatu",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Samoa",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Kosovo",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Yemen",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"South Africa",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"Zimbabwe",NA,"ixodes","world","web",2018-04-13,2018-04-06
+"United States","100","dog tick","world","web",2018-04-13,2018-04-06
+"Canada","71","dog tick","world","web",2018-04-13,2018-04-06
+"Australia","51","dog tick","world","web",2018-04-13,2018-04-06
+"United Kingdom","49","dog tick","world","web",2018-04-13,2018-04-06
+"South Africa","42","dog tick","world","web",2018-04-13,2018-04-06
+"Philippines","39","dog tick","world","web",2018-04-13,2018-04-06
+"Ireland","26","dog tick","world","web",2018-04-13,2018-04-06
+"Singapore","20","dog tick","world","web",2018-04-13,2018-04-06
+"Nigeria","18","dog tick","world","web",2018-04-13,2018-04-06
+"Malaysia","13","dog tick","world","web",2018-04-13,2018-04-06
+"India","7","dog tick","world","web",2018-04-13,2018-04-06
+"Spain","2","dog tick","world","web",2018-04-13,2018-04-06
+"Germany","2","dog tick","world","web",2018-04-13,2018-04-06
+"Indonesia","2","dog tick","world","web",2018-04-13,2018-04-06
+"Mexico","2","dog tick","world","web",2018-04-13,2018-04-06
+"France","1","dog tick","world","web",2018-04-13,2018-04-06
+"New Zealand",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Romania",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Switzerland",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Thailand",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Netherlands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Aruba",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Afghanistan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Angola",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Anguilla",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Åland Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Albania",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Andorra",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"United Arab Emirates",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Argentina",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Armenia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"American Samoa",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Antarctica",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"French Southern Territories",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Austria",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Azerbaijan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Burundi",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Belgium",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Benin",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Burkina Faso",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bangladesh",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bulgaria",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bahrain",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bahamas",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Barthélemy",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Belarus",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Belize",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bermuda",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bolivia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Brazil",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Barbados",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Brunei",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bhutan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Bouvet Island",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Botswana",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Central African Republic",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Chile",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"China",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cameroon",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cook Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Colombia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Comoros",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cape Verde",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Costa Rica",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cuba",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Curaçao",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Christmas Island",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cayman Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cyprus",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Czechia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Djibouti",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Dominica",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Denmark",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Dominican Republic",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Algeria",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Ecuador",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Egypt",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Eritrea",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Western Sahara",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Estonia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Ethiopia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Finland",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Fiji",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Faroe Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Micronesia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Gabon",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Georgia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guernsey",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Ghana",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Gibraltar",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guinea",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guadeloupe",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Gambia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Greece",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Grenada",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Greenland",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guatemala",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"French Guiana",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guam",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Guyana",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Hong Kong",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Honduras",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Croatia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Haiti",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Hungary",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Isle of Man",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Iran",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Iraq",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Iceland",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Israel",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Italy",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Jamaica",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Jersey",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Jordan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Japan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Kazakhstan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Kenya",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Cambodia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Kiribati",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"South Korea",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Kuwait",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Laos",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Lebanon",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Liberia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Libya",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Lucia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Liechtenstein",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Sri Lanka",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Lesotho",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Lithuania",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Luxembourg",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Latvia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Macau",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Martin",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Morocco",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Monaco",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Moldova",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Madagascar",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Maldives",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Marshall Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Mali",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Malta",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Montenegro",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Mongolia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Mozambique",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Mauritania",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Montserrat",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Martinique",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Mauritius",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Malawi",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Mayotte",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Namibia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"New Caledonia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Niger",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Norfolk Island",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Nicaragua",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Niue",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Norway",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Nepal",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Nauru",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Oman",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Pakistan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Panama",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Peru",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Palau",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Papua New Guinea",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Poland",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Puerto Rico",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"North Korea",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Portugal",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Paraguay",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Palestine",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"French Polynesia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Qatar",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Réunion",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Russia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Rwanda",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Saudi Arabia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Sudan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Senegal",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Helena",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Solomon Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Sierra Leone",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"El Salvador",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"San Marino",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Somalia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Serbia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"South Sudan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Suriname",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Slovakia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Slovenia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Sweden",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Swaziland",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Sint Maarten",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Seychelles",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Syria",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Chad",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Togo",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Tajikistan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Tokelau",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Turkmenistan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Timor-Leste",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Tonga",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Tunisia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Turkey",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Tuvalu",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Taiwan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Tanzania",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Uganda",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Ukraine",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Uruguay",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Uzbekistan",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Vatican City",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Venezuela",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"British Virgin Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Vietnam",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Vanuatu",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Samoa",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Kosovo",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Yemen",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Zambia",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Zimbabwe",NA,"dog tick","world","web",2018-04-13,2018-04-06
+"Australia","100","dog paralysis tick","world","web",2018-04-13,2018-04-06
+"United States","7","dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Tanzania",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Philippines",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Belarus",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Malaysia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Pakistan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Canada",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"United Kingdom",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"India",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Indonesia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"France",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Brazil",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Aruba",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Afghanistan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Angola",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Anguilla",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Åland Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Albania",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Andorra",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"United Arab Emirates",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Argentina",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Armenia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"American Samoa",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Antarctica",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"French Southern Territories",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Austria",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Azerbaijan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Burundi",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Belgium",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Benin",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Burkina Faso",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bangladesh",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bulgaria",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bahrain",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bahamas",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Barthélemy",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Belize",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bermuda",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bolivia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Barbados",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Brunei",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bhutan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Bouvet Island",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Botswana",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Central African Republic",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Switzerland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Chile",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"China",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cameroon",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cook Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Colombia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Comoros",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cape Verde",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Costa Rica",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cuba",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Curaçao",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Christmas Island",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cayman Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cyprus",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Czechia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Germany",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Djibouti",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Dominica",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Denmark",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Dominican Republic",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Algeria",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Ecuador",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Egypt",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Eritrea",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Western Sahara",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Spain",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Estonia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Ethiopia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Finland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Fiji",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Faroe Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Micronesia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Gabon",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Georgia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guernsey",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Ghana",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Gibraltar",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guinea",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guadeloupe",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Gambia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Greece",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Grenada",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Greenland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guatemala",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"French Guiana",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guam",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Guyana",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Hong Kong",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Honduras",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Croatia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Haiti",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Hungary",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Isle of Man",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Ireland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Iran",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Iraq",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Iceland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Israel",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Italy",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Jamaica",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Jersey",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Jordan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Japan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Kazakhstan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Kenya",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Cambodia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Kiribati",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"South Korea",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Kuwait",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Laos",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Lebanon",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Liberia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Libya",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Lucia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Liechtenstein",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Sri Lanka",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Lesotho",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Lithuania",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Luxembourg",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Latvia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Macau",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Martin",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Morocco",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Monaco",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Moldova",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Madagascar",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Maldives",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mexico",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Marshall Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mali",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Malta",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Montenegro",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mongolia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mozambique",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mauritania",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Montserrat",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Martinique",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mauritius",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Malawi",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Mayotte",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Namibia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"New Caledonia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Niger",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Norfolk Island",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Nigeria",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Nicaragua",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Niue",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Netherlands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Norway",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Nepal",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Nauru",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"New Zealand",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Oman",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Panama",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Peru",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Palau",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Papua New Guinea",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Poland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Puerto Rico",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"North Korea",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Portugal",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Paraguay",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Palestine",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"French Polynesia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Qatar",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Réunion",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Romania",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Russia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Rwanda",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Saudi Arabia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Sudan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Senegal",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Singapore",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Helena",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Solomon Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Sierra Leone",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"El Salvador",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"San Marino",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Somalia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Serbia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"South Sudan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Suriname",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Slovakia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Slovenia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Sweden",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Swaziland",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Sint Maarten",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Seychelles",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Syria",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Chad",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Togo",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Thailand",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Tajikistan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Tokelau",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Turkmenistan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Timor-Leste",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Tonga",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Tunisia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Turkey",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Tuvalu",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Taiwan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Uganda",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Ukraine",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Uruguay",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Uzbekistan",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Vatican City",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Venezuela",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"British Virgin Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Vietnam",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Vanuatu",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Samoa",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Kosovo",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Yemen",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"South Africa",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Zambia",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Zimbabwe",NA,"dog paralysis tick","world","web",2018-04-13,2018-04-06
+"Australia","100","removing ticks","world","web",2018-04-13,2018-04-06
+"United Kingdom","73","removing ticks","world","web",2018-04-13,2018-04-06
+"Canada","60","removing ticks","world","web",2018-04-13,2018-04-06
+"United States","52","removing ticks","world","web",2018-04-13,2018-04-06
+"India","5","removing ticks","world","web",2018-04-13,2018-04-06
+"Isle of Man",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Jersey",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Suriname",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Qatar",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Zimbabwe",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Zambia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Philippines",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Ireland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Lithuania",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Nigeria",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Singapore",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"South Africa",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Romania",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Morocco",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"New Zealand",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"United Arab Emirates",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Greece",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Austria",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Pakistan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Switzerland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Thailand",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Germany",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Sweden",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Spain",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Italy",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Netherlands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Poland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"France",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Brazil",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Aruba",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Afghanistan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Angola",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Anguilla",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Åland Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Albania",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Andorra",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Argentina",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Armenia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"American Samoa",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Antarctica",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"French Southern Territories",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Azerbaijan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Burundi",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Belgium",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Benin",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Burkina Faso",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bangladesh",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bulgaria",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bahrain",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bahamas",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Barthélemy",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Belarus",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Belize",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bermuda",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bolivia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Barbados",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Brunei",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bhutan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Bouvet Island",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Botswana",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Central African Republic",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Chile",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"China",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cameroon",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cook Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Colombia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Comoros",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cape Verde",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Costa Rica",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cuba",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Curaçao",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Christmas Island",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cayman Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cyprus",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Czechia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Djibouti",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Dominica",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Denmark",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Dominican Republic",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Algeria",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Ecuador",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Egypt",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Eritrea",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Western Sahara",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Estonia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Ethiopia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Finland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Fiji",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Faroe Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Micronesia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Gabon",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Georgia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guernsey",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Ghana",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Gibraltar",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guinea",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guadeloupe",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Gambia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Grenada",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Greenland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guatemala",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"French Guiana",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guam",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Guyana",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Hong Kong",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Honduras",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Croatia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Haiti",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Hungary",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Indonesia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Iran",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Iraq",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Iceland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Israel",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Jamaica",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Jordan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Japan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Kazakhstan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Kenya",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Cambodia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Kiribati",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"South Korea",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Kuwait",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Laos",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Lebanon",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Liberia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Libya",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Lucia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Liechtenstein",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Sri Lanka",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Lesotho",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Luxembourg",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Latvia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Macau",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Martin",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Monaco",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Moldova",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Madagascar",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Maldives",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mexico",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Marshall Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mali",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Malta",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Montenegro",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mongolia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mozambique",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mauritania",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Montserrat",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Martinique",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mauritius",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Malawi",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Malaysia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Mayotte",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Namibia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"New Caledonia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Niger",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Norfolk Island",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Nicaragua",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Niue",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Norway",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Nepal",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Nauru",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Oman",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Panama",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Peru",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Palau",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Papua New Guinea",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Puerto Rico",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"North Korea",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Portugal",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Paraguay",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Palestine",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"French Polynesia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Réunion",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Russia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Rwanda",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Saudi Arabia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Sudan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Senegal",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Helena",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Solomon Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Sierra Leone",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"El Salvador",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"San Marino",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Somalia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Serbia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"South Sudan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Slovakia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Slovenia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Swaziland",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Sint Maarten",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Seychelles",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Syria",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Chad",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Togo",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Tajikistan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Tokelau",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Turkmenistan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Timor-Leste",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Tonga",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Tunisia",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Turkey",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Tuvalu",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Taiwan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Tanzania",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Uganda",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Ukraine",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Uruguay",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Uzbekistan",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Vatican City",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Venezuela",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"British Virgin Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Vietnam",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Vanuatu",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Samoa",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Kosovo",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"Yemen",NA,"removing ticks","world","web",2018-04-13,2018-04-06
+"United States","100","tick infestation","world","web",2018-04-13,2018-04-06
+"Canada","81","tick infestation","world","web",2018-04-13,2018-04-06
+"Australia","77","tick infestation","world","web",2018-04-13,2018-04-06
+"United Kingdom","20","tick infestation","world","web",2018-04-13,2018-04-06
+"India","17","tick infestation","world","web",2018-04-13,2018-04-06
+"Germany","2","tick infestation","world","web",2018-04-13,2018-04-06
+"Liberia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Papua New Guinea",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guam",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Somalia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Ethiopia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mauritius",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Nigeria",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Lebanon",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Uganda",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Kuwait",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Philippines",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cyprus",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"South Africa",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Kenya",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"United Arab Emirates",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Ireland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Singapore",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Egypt",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Hong Kong",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Israel",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Malaysia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Czechia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Hungary",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Portugal",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Thailand",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Austria",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Saudi Arabia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Taiwan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Iran",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Indonesia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Colombia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Ukraine",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Spain",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Italy",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"France",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Japan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Aruba",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Afghanistan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Angola",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Anguilla",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Åland Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Albania",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Andorra",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Argentina",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Armenia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"American Samoa",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Antarctica",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"French Southern Territories",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Azerbaijan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Burundi",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Belgium",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Benin",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Burkina Faso",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bangladesh",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bulgaria",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bahrain",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bahamas",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Barthélemy",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Belarus",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Belize",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bermuda",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bolivia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Brazil",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Barbados",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Brunei",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bhutan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Bouvet Island",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Botswana",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Central African Republic",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Switzerland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Chile",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"China",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cameroon",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cook Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Comoros",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cape Verde",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Costa Rica",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cuba",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Curaçao",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Christmas Island",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cayman Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Djibouti",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Dominica",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Denmark",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Dominican Republic",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Algeria",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Ecuador",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Eritrea",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Western Sahara",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Estonia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Finland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Fiji",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Faroe Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Micronesia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Gabon",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Georgia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guernsey",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Ghana",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Gibraltar",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guinea",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guadeloupe",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Gambia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Greece",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Grenada",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Greenland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guatemala",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"French Guiana",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Guyana",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Honduras",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Croatia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Haiti",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Isle of Man",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Iraq",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Iceland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Jamaica",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Jersey",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Jordan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Kazakhstan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Cambodia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Kiribati",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"South Korea",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Laos",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Libya",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Lucia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Liechtenstein",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Sri Lanka",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Lesotho",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Lithuania",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Luxembourg",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Latvia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Macau",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Martin",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Morocco",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Monaco",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Moldova",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Madagascar",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Maldives",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mexico",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Marshall Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mali",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Malta",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Montenegro",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mongolia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mozambique",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mauritania",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Montserrat",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Martinique",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Malawi",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Mayotte",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Namibia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"New Caledonia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Niger",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Norfolk Island",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Nicaragua",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Niue",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Netherlands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Norway",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Nepal",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Nauru",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"New Zealand",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Oman",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Pakistan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Panama",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Peru",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Palau",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Poland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Puerto Rico",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"North Korea",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Paraguay",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Palestine",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"French Polynesia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Qatar",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Réunion",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Romania",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Russia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Rwanda",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Sudan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Senegal",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Helena",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Solomon Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Sierra Leone",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"El Salvador",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"San Marino",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Serbia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"South Sudan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Suriname",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Slovakia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Slovenia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Sweden",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Swaziland",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Sint Maarten",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Seychelles",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Syria",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Chad",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Togo",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Tajikistan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Tokelau",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Turkmenistan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Timor-Leste",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Tonga",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Tunisia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Turkey",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Tuvalu",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Tanzania",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Uruguay",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Uzbekistan",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Vatican City",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Venezuela",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"British Virgin Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Vietnam",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Vanuatu",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Samoa",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Kosovo",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Yemen",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Zambia",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"Zimbabwe",NA,"tick infestation","world","web",2018-04-13,2018-04-06
+"United States","100","tick prevention","world","web",2018-04-13,2018-04-06
+"Canada","66","tick prevention","world","web",2018-04-13,2018-04-06
+"Australia","26","tick prevention","world","web",2018-04-13,2018-04-06
+"United Kingdom","11","tick prevention","world","web",2018-04-13,2018-04-06
+"Singapore",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"South Africa",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Malaysia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Philippines",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"France",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Germany",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"India",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Aruba",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Afghanistan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Angola",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Anguilla",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Åland Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Albania",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Andorra",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"United Arab Emirates",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Argentina",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Armenia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"American Samoa",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Antarctica",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"French Southern Territories",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Antigua & Barbuda",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Austria",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Azerbaijan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Burundi",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Belgium",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Benin",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Caribbean Netherlands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Burkina Faso",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bangladesh",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bulgaria",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bahrain",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bahamas",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bosnia & Herzegovina",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Barthélemy",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Belarus",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Belize",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bermuda",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bolivia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Brazil",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Barbados",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Brunei",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bhutan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Bouvet Island",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Botswana",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Central African Republic",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cocos (Keeling) Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Switzerland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Chile",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"China",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Côte d’Ivoire",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cameroon",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Congo - Kinshasa",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Congo - Brazzaville",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cook Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Colombia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Comoros",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cape Verde",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Costa Rica",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cuba",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Curaçao",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Christmas Island",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cayman Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cyprus",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Czechia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Djibouti",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Dominica",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Denmark",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Dominican Republic",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Algeria",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Ecuador",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Egypt",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Eritrea",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Western Sahara",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Spain",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Estonia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Ethiopia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Finland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Fiji",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Falkland Islands (Islas Malvinas)",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Faroe Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Micronesia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Gabon",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Georgia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guernsey",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Ghana",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Gibraltar",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guinea",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guadeloupe",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Gambia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guinea-Bissau",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Equatorial Guinea",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Greece",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Grenada",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Greenland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guatemala",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"French Guiana",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guam",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Guyana",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Hong Kong",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Heard & McDonald Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Honduras",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Croatia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Haiti",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Hungary",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Indonesia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Isle of Man",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"British Indian Ocean Territory",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Ireland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Iran",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Iraq",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Iceland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Israel",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Italy",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Jamaica",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Jersey",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Jordan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Japan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Kazakhstan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Kenya",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Kyrgyzstan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Cambodia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Kiribati",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Kitts & Nevis",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"South Korea",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Kuwait",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Laos",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Lebanon",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Liberia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Libya",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Lucia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Liechtenstein",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Sri Lanka",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Lesotho",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Lithuania",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Luxembourg",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Latvia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Macau",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Martin",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Morocco",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Monaco",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Moldova",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Madagascar",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Maldives",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mexico",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Marshall Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Macedonia (FYROM)",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mali",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Malta",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Myanmar (Burma)",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Montenegro",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mongolia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Northern Mariana Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mozambique",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mauritania",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Montserrat",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Martinique",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mauritius",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Malawi",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Mayotte",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Namibia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"New Caledonia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Niger",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Norfolk Island",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Nigeria",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Nicaragua",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Niue",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Netherlands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Norway",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Nepal",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Nauru",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"New Zealand",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Oman",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Pakistan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Panama",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Pitcairn Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Peru",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Palau",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Papua New Guinea",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Poland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Puerto Rico",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"North Korea",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Portugal",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Paraguay",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Palestine",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"French Polynesia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Qatar",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Réunion",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Romania",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Russia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Rwanda",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Saudi Arabia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Sudan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Senegal",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"South Georgia & South Sandwich Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Helena",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Svalbard & Jan Mayen",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Solomon Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Sierra Leone",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"El Salvador",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"San Marino",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Somalia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Pierre & Miquelon",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Serbia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"South Sudan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"São Tomé & Príncipe",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Suriname",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Slovakia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Slovenia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Sweden",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Swaziland",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Sint Maarten",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Seychelles",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Syria",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Turks & Caicos Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Chad",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Togo",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Thailand",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Tajikistan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Tokelau",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Turkmenistan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Timor-Leste",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Tonga",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Trinidad & Tobago",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Tunisia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Turkey",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Tuvalu",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Taiwan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Tanzania",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Uganda",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Ukraine",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"U.S. Outlying Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Uruguay",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Uzbekistan",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Vatican City",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"St. Vincent & Grenadines",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Venezuela",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"British Virgin Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"U.S. Virgin Islands",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Vietnam",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Vanuatu",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Wallis & Futuna",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Samoa",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Kosovo",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Yemen",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Zambia",NA,"tick prevention","world","web",2018-04-13,2018-04-06
+"Zimbabwe",NA,"tick prevention","world","web",2018-04-13,2018-04-06
 "United States","2","paralysis tick","world","web",2018-04-05,2018-03-29
 "Canada","2","paralysis tick","world","web",2018-04-05,2018-03-29
 "Australia","36","paralysis tick","world","web",2018-04-05,2018-03-29

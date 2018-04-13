@@ -1,4 +1,174 @@
 "location","keyword","geo","gprop","total.hits","end.date","start.date"
+"Brisbane","cat flea","AU-QLD","web",100,2018-04-13,2018-04-06
+"Harrisville","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Forest Hill","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Woodgate","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Murphys Creek","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Withcott","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Richmond Hill","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Laidley","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Goondiwindi","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Wongabel","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gympie","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Yeppoon","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Toowoomba","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Hervey Bay","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Maryborough","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Rockhampton","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mackay","cat flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","dog flea","AU-QLD","web",100,2018-04-13,2018-04-06
+"Drinan","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Balnagowan","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kin Kin","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Nundubbermere","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Wooroolin","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Emu Park","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Howard","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Allora","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Murphys Creek","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Stanthorpe","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Glenorchy","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Moore Park Beach","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Richmond Hill","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Walkerston","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Lowood","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Kingaroy","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Highfields","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Roma","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Winchester","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Hervey Bay","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Rockhampton","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Emerald","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gladstone","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Maryborough","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Toowoomba","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Plainland","dog flea","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","ctenocephalides","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","removing fleas","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bromelton","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Murphys Creek","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mackay","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Cairns","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Gold Coast","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sunshine Coast","flea infestation","AU-QLD","web",0,2018-04-13,2018-04-06
+"Roma","flea prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Warwick","flea prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Bundaberg","flea prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Mackay","flea prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Townsville","flea prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Brisbane","flea prevention","AU-QLD","web",0,2018-04-13,2018-04-06
+"Sydney","cat flea","AU-NSW","web",100,2018-04-13,2018-04-06
+"Saumarez","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Camberwell","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Repton","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bombala","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Laguna","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Berrima","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Hay","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cumbalum","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Chinderah","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Junee","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Mulwala","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bungendore","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wingham","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cobaki Lakes","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"South West Rocks","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Moama","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Warrimoo","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lawson","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lithgow","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Hill Top","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Tweed Heads West","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Blaxland","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Springwood","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Brewongle","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bowral","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Nowra","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Albury","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Queanbeyan","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wagga Wagga","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cudgen","cat flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","dog flea","AU-NSW","web",100,2018-04-13,2018-04-06
+"Giants Creek","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Collendina","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Black Creek","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Camberwell","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Corndale","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Collarenebri","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bowning","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Paterson","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Townsend","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Warren","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Barrengarry","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Greigs Flat","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Valla Beach","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Rainbow Flat","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sussex Inlet","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"The Pocket","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Blayney","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Tea Gardens","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Temora","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Mogo","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Narrabri","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Jolly Nose","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wentworth Falls","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Leeton","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Cowra","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Young","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Parkes","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Springwood","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Warrimoo","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Tweed Heads South","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Jamberoo","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Brewongle","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Banora Point","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Tamworth","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Grafton","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Albury","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Coffs Harbour","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lismore","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bathurst","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Queanbeyan","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wagga Wagga","dog flea","AU-NSW","web",0,2018-04-13,2018-04-06
+"Singleton","ctenocephalides","AU-NSW","web",0,2018-04-13,2018-04-06
+"Deniliquin","removing fleas","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","removing fleas","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","removing fleas","AU-NSW","web",0,2018-04-13,2018-04-06
+"Corndale","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Goolmangar","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Kalaru","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Caniaba","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Lake Cathie","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Central Coast","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","flea infestation","AU-NSW","web",0,2018-04-13,2018-04-06
+"Barrengarry","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Greigs Flat","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Hay","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Bundanoon","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wingham","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Young","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Forster","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Newcastle","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Wollongong","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
+"Sydney","flea prevention","AU-NSW","web",0,2018-04-13,2018-04-06
 "Brisbane","cat flea","AU-QLD","web",194,2018-04-05,2018-03-29
 "Herberton","cat flea","AU-QLD","web",0,2018-04-05,2018-03-29
 "Cooyar","cat flea","AU-QLD","web",0,2018-04-05,2018-03-29
